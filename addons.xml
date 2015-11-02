@@ -24,8 +24,8 @@
 
 <addon id="repository.malaysia.suaji" name="Malaysia IPTV dan Movie" version="1.0.0">
 	<extension point="xbmc.addon.repository" name="Malaysia IPTV dan Movie">
-		<info compressed="false">https://raw.githubusercontent.com/suaji/repository.malaysia.suaji/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/suaji/repository.malaysia.suaji/master/addons.xml.md5</checksum>
+		<info compressed="false">https://raw.githubusercontent.com/suaji/suaji-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/suaji/suaji-repo/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/suaji/repository.malaysia.suaji/master</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
