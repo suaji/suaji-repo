@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.iptv-malay" name="Malaysia IPTV" version="1.0.0" provider-name="Suaji">
+<addon id="plugin.video.iptvmalay" name="Malaysia IPTV" version="1.0.0" provider-name="Suaji">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
