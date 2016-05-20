@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.malaysia.suaji" name="Malaysia IPTV dan Movie" version="1.0.0" provider-name="suaji">
+	<extension point="xbmc.addon.repository" name="Malaysia IPTV dan Movie">
+		<info compressed="false">https://raw.githubusercontent.com/suaji/suaji-repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/suaji/suaji-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/suaji/suaji-repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	    <summary>Sumber RTM, Media Prima dan PencuriMovie.pw</summary>
+		<description>Mengandungi IPTV (FTA) dan Movie Melayu</description>
+		<disclaimer>Addons dalam repo ini adalah PERCUMA!.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
